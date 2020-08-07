@@ -1,6 +1,6 @@
 (fp_lib_table
-  (lib (name badgelife_sao_v169bis)(type KiCad)(uri /home/groot/Desktop/scythe/scythe_badge/footprint/badgelife_sao_v169bis.pretty)(options "")(descr ""))
+  (lib (name badgelife_sao_v169bis)(type KiCad)(uri ${KIPRJMOD}/footprint/badgelife_sao_v169bis.pretty)(options "")(descr ""))
   (lib (name footprint)(type KiCad)(uri ${KIPRJMOD}/footprint)(options "")(descr ""))
   (lib (name rgbled)(type KiCad)(uri ${KIPRJMOD}/footprint/IN-S126TASRGB/KiCad/)(options "")(descr ""))
-  (lib (name attiny1616)(type KiCad)(uri /home/groot/Desktop/scythe/scythe_badge/footprint/ATTINY1616-MNR/KiCad)(options "")(descr ""))
+  (lib (name attiny1616)(type KiCad)(uri ${KIPRJMOD}/footprint/ATTINY1616-MNR/KiCad)(options "")(descr ""))
 )
