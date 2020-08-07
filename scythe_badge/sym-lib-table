@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name IN-S126TASRGB)(type Legacy)(uri ${KIPRJMOD}/footprint/IN-S126TASRGB/KiCad/IN-S126TASRGB.lib)(options "")(descr ""))
+)

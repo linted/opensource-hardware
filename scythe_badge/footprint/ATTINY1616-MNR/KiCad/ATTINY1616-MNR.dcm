@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATTINY1616-MNR
+D Microchip ATTINY1616-MNR, 8bit AVR Microcontroller, 20MHz, 16 kB Flash, 20-Pin VQFN
+K
+F https://componentsearchengine.com/Datasheets/1/ATTINY1616-MNR.pdf
+$ENDCMP
+#
+#End Doc Library
